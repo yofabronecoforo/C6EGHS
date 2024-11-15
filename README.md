@@ -1,2 +1,2 @@
-# C6GHRP
-Goody Hut Reward Picker for Civilization VI
+# C6GHAS
+Goody Hut Advanced Setup for Civilization VI
